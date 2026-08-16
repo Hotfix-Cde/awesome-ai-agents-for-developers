@@ -17,6 +17,7 @@ A comprehensive, curated list of AI agents, frameworks, tools, and specialized a
 - **[Continue](https://github.com/continuedev/continue)** - The open-source AI code assistant.
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** - An autonomous AI software engineer.
 - **[Manus AI](https://manus.im)** - A general-purpose autonomous AI agent for end-to-end task execution.
+- **[Agent QA](https://github.com/vostride/agent-qa)** - A source-available QA agent for natural-language web and mobile regression tests, with persistent test memory and CLI/MCP interfaces.
 
 ---
 
