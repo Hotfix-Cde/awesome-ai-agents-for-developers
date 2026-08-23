@@ -9,6 +9,7 @@ A comprehensive, curated list of AI agents, frameworks, tools, and specialized a
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** - An experimental open-source attempt to make GPT-4 fully autonomous.
 - **[Microsoft AutoGen](https://github.com/microsoft/autogen)** - A framework that enables the development of LLM applications using multiple agents.
 - **[LangChain Agents](https://python.langchain.com/docs/modules/agents/)** - Build agents that use LLMs to determine which actions to take.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** - A local-first desktop AI workforce for Commander-led multi-agent planning and execution.
 
 ---
 
